@@ -8,7 +8,12 @@ in Untitled grid search was performed and with those results the models were cre
 Svm outperformed Random forest in almost all metrics  as accuracy and recall
 Lematization affected performance only slightly but cost a lot in pre processing time
 
-the class from which i load data to untitled was to large so only the models are uploaded
+the class from which i loaded data to untitled was to large so only the models are uploaded
+
+***********
+The state of notebook shows the results of latest runs not previous resul opun whic some of the decision were based
+
+
 
 
 
