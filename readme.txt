@@ -1,4 +1,6 @@
-the testing of the models is doen in result file if you want to test the models locally without doing preprocessing
+the testing of the models is doen in result file if you want to test the models locally without doing preprocessing 
+however due to larg size of tfidf matrix i could load the files conatining the models so you need to run them cell by cell
+which is time consuming(might add the last file)
 
 the preprocesing with lower string,stop word removal and lemmatization is done in Link file
 first overall state of data is evaluated and then the preprocessing is done
