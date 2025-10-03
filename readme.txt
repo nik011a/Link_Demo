@@ -8,6 +8,8 @@ lemmatisation was used instead of stemming with the aim of reducing words howeve
 a limited number of words were affected and some were affected negatively like US
 
 in Untitled grid search was performed and with those results the models were created
+random forest was used as it is considerd a good baseline across different problems(go to algorithm)
+also svm as it works well with tf-idf
 
 Svm outperformed Random forest in almost all metrics  and had a good overall balance
 Lematization affected performance only slightly but cost a lot in pre processing time
