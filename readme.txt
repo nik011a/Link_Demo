@@ -11,7 +11,8 @@ Lematization affected performance only slightly but cost a lot in pre processing
 the class from which i loaded data to untitled was to large so only the models are uploaded
 
 ***********
-The state of notebook shows the results of latest runs not previous resul opun whic some of the decision were based
+The state of notebook shows the results of latest runs not previous results upon which some of the decision were based
+
 
 
 
